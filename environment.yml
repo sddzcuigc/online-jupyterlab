@@ -15,6 +15,7 @@ dependencies:
   - requests
   - selenium
   - jupyterlab-lsp
+  - jedi-language-server
   - nodejs
   - pyautogui
   - pyinstaller
