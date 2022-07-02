@@ -12,15 +12,17 @@ dependencies:
   - bokeh
   - dask
   - python=3.9
+  - requests
+  - selenium
+  - jupyterlab-lsp
+  - nodejs
+  - pyautogui
+  - pyinstaller
   - pip:
     - spacy
     - ipykernel
     - scipy
-    - numpy
     - scikit-learn
-    - matplotlib
-    - pandas
     - thinc
     - mitosheet3
-    - requests
-    - selenium
+
